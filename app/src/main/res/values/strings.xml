@@ -1,0 +1,38 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">thamolwan012</string>
+    <string name="jujutsu_kaisen1">ji</string>
+    <string name="jujutsu_kaisen2">j2</string>
+    <string name="jujutsu_kaisen3">j3</string>
+    <string name="jujutsu_kaisen4">j4</string>
+    <string name="jujutsu_kaisen5">j5</string>
+    <string name="jujutsu_kaisen6">j6</string>
+    <string name="jujutsu_kaisen7">j7</string>
+    <string name="jujutsu_kaisen8">j8</string>
+    <string name="jujutsu_kaisen9">j9</string>
+    <string name="jujutsu_kaisen10">j10</string>
+    <string name="jujutsu_kaisen12">j12</string>
+    <string name="jujutsu_kaisen13">j13</string>
+    <string name="jujutsu_kaisen14">j14</string>
+    <string name="jujutsu_kaisen15">j15</string>
+    <string name="jujutsu_kaisen16">j16</string>
+    <string name="jujutsu_kaisen17">j17</string>
+    <string name="jujutsu_kaisen18">j18</string>
+    <string name="jujutsu_kaisen19">j19</string>
+    <string name="jujutsu_kaisen20">j20</string>
+    <string name="jujutsu_kaisen21">j21</string>
+</resources>
